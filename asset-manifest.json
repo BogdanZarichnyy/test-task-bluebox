@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-bluebox/static/css/main.8f977b9d.css",
+    "main.js": "/test-task-bluebox/static/js/main.78b18497.js",
+    "index.html": "/test-task-bluebox/index.html",
+    "main.8f977b9d.css.map": "/test-task-bluebox/static/css/main.8f977b9d.css.map",
+    "main.78b18497.js.map": "/test-task-bluebox/static/js/main.78b18497.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f977b9d.css",
+    "static/js/main.78b18497.js"
+  ]
+}
